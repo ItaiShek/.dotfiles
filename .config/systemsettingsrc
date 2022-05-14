@@ -1,0 +1,50 @@
+[KFileDialog Settings]
+Recent Files[$e]=kaiman-dorohedoro-uhdpaper.com-4K-7.1025-wp.thumbnail.jpg,file:$HOME/.local/share/wallpapers/kaiman-dorohedoro-uhdpaper.com-4K-7.1025-wp.thumbnail.jpg,file:///usr/share/sddm/themes/Fedora_Mod/kaiman-dorohedoro-uhdpaper.com-4K-7.1025-wp.thumbnail.jpg
+Recent URLs[$e]=file:$HOME/.local/,file:///usr/,file:$HOME/,file:$HOME/.local/share/wallpapers/,file:///usr/share/sddm/themes/Fedora_Mod/,file:///usr/share/sddm/themes/,file:///usr/share/sddm/,file:///usr/share/,file:///,file:///home/
+detailViewIconSize=16
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+VGA-1 Height 1688x926=700
+VGA-1 Height 1688x979=700
+VGA-1 Width 1688x926=1020
+VGA-1 Width 1688x979=1020
+VGA-1 XPosition 1688x926=302
+VGA-1 XPosition 1688x979=345
+VGA-1 YPosition 1688x926=121
+VGA-1 YPosition 1688x979=159
+Virtual-1 Height 1024x768=515
+Virtual-1 Height 1197x768=666
+Virtual-1 Height 1280x720=515
+Virtual-1 Height 1280x768=515
+Virtual-1 Height 1680x1050=515
+Virtual-1 Height 1680x966=716
+Virtual-1 Height 1680x979=702
+Virtual-1 Height 1792x1344=515
+Virtual-1 Height 800x600=515
+Virtual-1 Width 1024x768=1024
+Virtual-1 Width 1197x768=1020
+Virtual-1 Width 1280x720=1280
+Virtual-1 Width 1280x768=1280
+Virtual-1 Width 1680x1050=1680
+Virtual-1 Width 1680x966=1052
+Virtual-1 Width 1680x979=1020
+Virtual-1 Width 1792x1344=1792
+Virtual-1 Width 800x600=800
+Virtual-1 XPosition 1197x768=0
+Virtual-1 XPosition 1680x966=534
+Virtual-1 XPosition 1680x979=331
+Virtual-1 XPosition 800x600=0
+Virtual-1 YPosition 1197x768=0
+Virtual-1 YPosition 1680x966=190
+Virtual-1 YPosition 1680x979=182
+Virtual-1 YPosition 800x600=51
+
+[Open-with settings]
+CompletionMode=1
+History=termi
+
+[systemsettings_sidebar_mode]
+HighlightNonDefaultSettings=false

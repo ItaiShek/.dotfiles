@@ -1,0 +1,23 @@
+# User configuration
+
+# export MANPATH="/usr/local/man:$MANPATH"
+
+# You may need to manually set your language environment
+# export LANG=en_US.UTF-8
+
+# Preferred editor for local and remote sessions
+# if [[ -n $SSH_CONNECTION ]]; then
+#   export EDITOR='vim'
+# else
+#   export EDITOR='mvim'
+# fi
+export EDITOR='vim'
+
+# Compilation flags
+# export ARCHFLAGS="-arch x86_64"
+
+# Autocomplete for aliases (specifically for dots) 
+complete -F _complete_alias config
+
+# remove C-s bind in favor of reverse-i-search
+stty -ixon

@@ -1,0 +1,20 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Virtual-1 XPosition 1680x966=4
+Virtual-1 XPosition 1680x979=1036
+Virtual-1 YPosition 1680x966=64
+Virtual-1 YPosition 1680x979=64
+
+[Recent Files]
+File1[$e]=/usr/share/sddm/faces/root.face.icon
+File2[$e]=/usr/share/icons/Adwaita/22x22/status/avatar-default.png
+Name1[$e]=root.face.icon
+Name2[$e]=avatar-default.png

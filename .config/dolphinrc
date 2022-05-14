@@ -1,0 +1,43 @@
+[General]
+Version=201
+ViewPropsTimestamp=2021,10,6,19,28,2.973
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[KPropertiesDialog]
+VGA-1 Height 1920x975=444
+VGA-1 Width 1920x975=1082
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+VGA-1 Height 1688x926=660
+VGA-1 Width 1688x926=1016
+VGA-1 XPosition 1280x720=260
+VGA-1 XPosition 1688x925=464
+VGA-1 XPosition 1688x926=333
+VGA-1 XPosition 1688x979=4
+VGA-1 XPosition 1920x975=580
+VGA-1 YPosition 1280x720=150
+VGA-1 YPosition 1688x925=184
+VGA-1 YPosition 1688x926=129
+VGA-1 YPosition 1688x979=302
+VGA-1 YPosition 1920x975=202
+Virtual-1 Height 1680x979=650
+Virtual-1 Height 800x600=468
+Virtual-1 Width 1680x979=848
+Virtual-1 Width 800x600=693
+Virtual-1 XPosition 1197x768=0
+Virtual-1 XPosition 1680x966=48
+Virtual-1 XPosition 1680x979=832
+Virtual-1 XPosition 800x600=0
+Virtual-1 YPosition 1197x768=29
+Virtual-1 YPosition 1680x966=299
+Virtual-1 YPosition 1680x979=64
+Virtual-1 YPosition 800x600=29
+
+[Open-with settings]
+CompletionMode=1
+History=

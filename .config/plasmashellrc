@@ -1,0 +1,127 @@
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[PlasmaTransientsConfig]
+PreloadWeight=26
+
+[PlasmaViews][Panel 117][Defaults]
+minLength=1653
+thickness=28
+
+[PlasmaViews][Panel 117][Horizontal1280]
+thickness=28
+
+[PlasmaViews][Panel 117][Horizontal1616]
+thickness=28
+
+[PlasmaViews][Panel 117][Horizontal1680]
+minLength=1653
+thickness=28
+
+[PlasmaViews][Panel 117][Horizontal1688]
+thickness=28
+
+[PlasmaViews][Panel 117][Horizontal1695]
+thickness=28
+
+[PlasmaViews][Panel 117][Horizontal1920]
+thickness=28
+
+[PlasmaViews][Panel 138]
+alignment=132
+
+[PlasmaViews][Panel 138][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 138][Horizontal1680]
+thickness=36
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=32
+
+[PlasmaViews][Panel 2][Horizontal1280]
+thickness=32
+
+[PlasmaViews][Panel 2][Horizontal1616]
+thickness=32
+
+[PlasmaViews][Panel 2][Horizontal1680]
+thickness=32
+
+[PlasmaViews][Panel 2][Horizontal1688]
+thickness=32
+
+[PlasmaViews][Panel 2][Horizontal1695]
+thickness=32
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=32
+
+[PlasmaViews][Panel 2][Horizontal800]
+thickness=28
+
+[PlasmaViews][Panel 25][Defaults]
+thickness=31
+
+[PlasmaViews][Panel 25][Horizontal1280]
+thickness=31
+
+[PlasmaViews][Panel 25][Horizontal1616]
+thickness=31
+
+[PlasmaViews][Panel 25][Horizontal1680]
+thickness=31
+
+[PlasmaViews][Panel 25][Horizontal1688]
+thickness=31
+
+[PlasmaViews][Panel 25][Horizontal1695]
+thickness=31
+
+[PlasmaViews][Panel 25][Horizontal1920]
+thickness=31
+
+[PlasmaViews][Panel 27][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 27][Horizontal1680]
+thickness=27
+
+[PlasmaViews][Panel 29]
+alignment=1
+
+[PlasmaViews][Panel 29][Defaults]
+thickness=28
+
+[PlasmaViews][Panel 29][Horizontal1680]
+thickness=28
+
+[PlasmaViews][Panel 52][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 52][Horizontal1680]
+thickness=27
+
+[PlasmaViews][Panel 54][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 54][Vertical979]
+thickness=44
+
+[PlasmaViews][Panel 75][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 75][Vertical979]
+thickness=44
+
+[PlasmaViews][Panel 96][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 96][Horizontal1680]
+thickness=44
+
+[ScreenConnectors]
+0=VGA-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js

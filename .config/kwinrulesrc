@@ -1,0 +1,22 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[1]
+Description=Application settings for terminator
+clientmachine=localhost
+size=1297,808
+sizerule=3
+wmclass=terminator
+wmclassmatch=1
+
+[General]
+count=1
+rules=1
+
+[d050f81a-29f7-4e10-a313-3f02c5315f4d]
+Description=Application settings for terminator
+clientmachine=localhost
+size=1297,808
+sizerule=3
+wmclass=terminator
+wmclassmatch=1

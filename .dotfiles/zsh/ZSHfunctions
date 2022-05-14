@@ -1,0 +1,27 @@
+# hightlights cat function output
+function highlightCat()
+{
+	highlight $1 -s oxygenated -O xterm256 2> /dev/null
+
+	# if the command had errors just use cat
+	if [ $? -ne 0 ];
+	then
+		cat $1;
+	fi
+}
+
+# toggles GEF on and off
+function gef()
+{
+	# check if "gef" is commented
+	if grep -q '^#.*gef' ~/.gdbinit
+	then
+		# find a commented line with "gef" and uncomment it
+		sed -i 's/^#\(.*gef.*\)/\1/' ~/.gdbinit
+		echo "GEF is turned on"
+	else
+		# find an uncommented line with "gef" and comment it
+		sed -i 's/\(.*gef.*\)/#\1/' ~/.gdbinit
+		echo "GEF is turned off"
+	fi
+}

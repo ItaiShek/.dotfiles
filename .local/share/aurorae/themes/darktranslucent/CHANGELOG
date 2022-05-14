@@ -1,0 +1,15 @@
+1.2
+ - Improved active window highlight
+ - Brighter blue button highlight (maximise,minimise and restore)
+
+1.1
+ - Adjusted edges (less white around border)
+ - Modified buttons mouse over effect
+ - Added this changelog
+
+1.0
+- Sepperated from QtCurve config
+
+Older Changes
+- Added active blue highlight
+

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Dark-Translucent
+Comment=For use with matching QtCurve settings.
+
+
+X-KDE-PluginInfo-Author=dee2er
+X-KDE-PluginInfo-Email=dylanblackmore@gmx.com
+X-KDE-PluginInfo-Name=darktranslucent
+X-KDE-PluginInfo-Version=1.2
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL_V2
+X-KDE-PluginInfo-EnabledByDefault=true

@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Fedora Mod
+Description=My Modified Fedora 34 sddm theme
+Author=Fedora Mod, Vass Zoltan
+Copyright=(c) 2021, Vass Zoltan
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=vasszo@gmail.com
+Theme-Id=fedora_mod
+Theme-API=2.0

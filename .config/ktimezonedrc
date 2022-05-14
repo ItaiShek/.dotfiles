@@ -1,0 +1,4 @@
+[TimeZones]
+LocalZone=Israel
+ZoneinfoDir=/usr/share/zoneinfo
+Zonetab=/usr/share/zoneinfo/zone.tab
